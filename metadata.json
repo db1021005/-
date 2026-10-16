@@ -1,0 +1,6 @@
+{
+  "name": "become a guitarist PRO",
+  "description": "Windows 11 기반 인터랙티브 6현 24프렛 기타 지판 탐색기, 화성학 분석, CAGED 시스템, 지판 암기 퀴즈 및 학습 통계 웹 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
